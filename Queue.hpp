@@ -7,7 +7,7 @@
 
 #ifndef QUEUE_HPP
 #define QUEUE_HPP
-#include "Node.h"
+#include "Node.hpp"
 template <class T>
 class Queue{
     

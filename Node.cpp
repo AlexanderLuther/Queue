@@ -4,7 +4,7 @@
  * 
  * Created on 25 de febrero de 2020, 02:21
  */
-#include "Node.h"
+#include "Node.hpp"
 
 template<typename T>
 Node<T>::Node(){

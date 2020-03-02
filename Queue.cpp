@@ -6,7 +6,7 @@
  */
 
 #include "Queue.hpp"
-#include "Node.h"
+#include "Node.hpp"
 #include "Node.cpp"
 
 template <typename T>
